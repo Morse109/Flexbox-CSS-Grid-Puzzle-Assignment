@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Butterfly Puzzle</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="grid-container">
+    <div class="puzzle-section">
+      <div class="puzzle-row">
+        <div class="puzzle-piece"><img src="file:///C:/Users/david/OneDrive/Desktop/puzzle1_J.jpg" alt="Piece J"></div>
+        <div class="puzzle-piece"><img src="file:///C:/Users/david/OneDrive/Desktop/puzzle1_Q.jpg" alt="Piece Q"></div>
+        <div class="puzzle-piece"><img src="file:///C:/Users/david/OneDrive/Desktop/puzzle1_M.jpg" alt="Piece M"></div>
+        <div class="puzzle-piece"><img src="file:///C:/Users/david/OneDrive/Desktop/puzzle1_A.jpg" alt="Piece A"></div>
+      </div>
+      <div class="puzzle-row">
+        <div class="puzzle-piece"><img src="file:///C:/Users/david/OneDrive/Desktop/puzzle1_G.jpg" alt="Piece G"></div>
+        <div class="puzzle-piece"><img src="file:///C:/Users/david/OneDrive/Desktop/puzzle1_B.jpg" alt="Piece B"></div>
+        <div class="puzzle-piece"><img src="file:///C:/Users/david/OneDrive/Desktop/puzzle1_H.jpg" alt="Piece H"></div>
+        <div class="puzzle-piece"><img src="file:///C:/Users/david/OneDrive/Desktop/puzzle1_O.jpg" alt="Piece O"></div>
+      </div>
+      <div class="puzzle-row">
+        <div class="puzzle-piece"><img src="file:///C:/Users/david/OneDrive/Desktop/puzzle1_P.jpg" alt="Piece P"></div>
+        <div class="puzzle-piece"><img src="file:///C:/Users/david/OneDrive/Desktop/puzzle1_N.jpg" alt="Piece N"></div>
+        <div class="puzzle-piece"><img src="file:///C:/Users/david/OneDrive/Desktop/puzzle1_C.jpg" alt="Piece C"></div>
+        <div class="puzzle-piece"><img src="file:///C:/Users/david/OneDrive/Desktop/puzzle1_E.jpg" alt="Piece E"></div>
+      </div>
+      <div class="puzzle-row">
+        <div class="puzzle-piece"><img src="file:///C:/Users/david/OneDrive/Desktop/puzzle1_F.jpg" alt="Piece F"></div>
+        <div class="puzzle-piece"><img src="file:///C:/Users/david/OneDrive/Desktop/puzzle1_L.jpg" alt="Piece L"></div>
+        <div class="puzzle-piece"><img src="file:///C:/Users/david/OneDrive/Desktop/puzzle1_K.jpg" alt="Piece K"></div>
+        <div class="puzzle-piece"><img src="file:///C:/Users/david/OneDrive/Desktop/puzzle1_I.jpg" alt="Piece I"></div>
+      </div>
+    </div>
+    <div class="extra-piece">
+      <h2>Extra Piece</h2>
+      <div class="puzzle-piece"><img src="file:///C:/Users/david/OneDrive/Desktop/puzzle1_D.jpg" alt="Extra Piece D"></div>
+    </div>
+  </div>
+</body>
+</html>
